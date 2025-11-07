@@ -18,6 +18,8 @@ These scripts are made using Python 3. To run them, you can use the official Pyt
 "https://www.python.org/downloads". You can also use any third-party IDE. As I mentioned in the 
 description, this code can be ran directly using the Python 3 console, without using any libraries.
 
+Screenshot of Python console: ![Image](https://github.com/Adamolek2345/Python-Calculators/blob/e053f336e3aa6629277407b28268362ac52c0ec2/Images/python3Screenshot.jpg)
+
 
 # Disclaimer
 This project doesn't have any affiliation with Python OR any other brands mentioned. I also want
