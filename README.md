@@ -16,9 +16,10 @@ to add will be approven by me, and could be added to the project, so feel free t
 
 # How to use ?
 These scripts are made using Python 3. To run them, you can use the official Python 3, available at
-"https://www.python.org/downloads". You can also use any third-party IDE. As I mentioned in the 
-description, this code can be ran directly using the Python 3 console, without using any libraries.
-You can use any Python that is 3.x.x.
+"https://www.python.org/downloads", or using the command below if u use bash:
+<pre> ```bash sudo apt update sudo apt install python3 ``` </pre>
+You can also use any third-party IDE. As I mentioned in the description, this code can be ran directly
+using the Python 3 console, without using any libraries. You can use any Python that is 3.x.x.
 
 Screenshot of Python 3 console: ![Image](https://github.com/Adamolek2345/Python-Calculators/blob/e053f336e3aa6629277407b28268362ac52c0ec2/Images/python3Screenshot.jpg)
 
