@@ -15,7 +15,8 @@ to add will be approven by me, and could be added to the project, so feel free t
 
 # How to use ?
 These scripts are made using Python 3. To run them, you can use the official Python 3, available at
-"https://www.python.org/downloads". You can also use any third-party IDE.
+"https://www.python.org/downloads". You can also use any third-party IDE. As I mentioned in the 
+description, this code can be ran directly using the Python 3 console, without using any libraries.
 
 
 # Disclaimer
