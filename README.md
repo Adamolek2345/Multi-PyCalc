@@ -16,7 +16,7 @@ to add will be approven by me, and could be added to the project, so feel free t
 
 # How to use ?
 These scripts are made using Python 3. To run them, you can use the official Python 3, available at
-"https://www.python.org/downloads", or using the command below if you use bash:\
+"https://www.python.org/downloads", or using the command below if you use bash:
 
 -First, update Superuser:
 <pre> sudo apt update </pre>
