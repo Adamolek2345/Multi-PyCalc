@@ -34,4 +34,4 @@ This project doesn't have any affiliation with Python OR any other brands mentio
 to add that this code is fully open source, which means that it can be installed and modified by
 anyone, but has to be approved by me. If you find any problems or bugs, feel free to report them 
 on my Git page. Some of the images used in this projects could be taken from certain web pages, 
-and their links will be shown under "Python-Calculators/Pictures/Images".
+and their links will be shown under "Python-Calculators/Images/Images".
