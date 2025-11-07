@@ -4,7 +4,7 @@
 # This Repository
 This repository, Python Calculators is where I develop different python calculators, such as download speed
 calculators or battery calculators. I also make measuring scripts for different purposes, such as bateries. Not 
-onlydo I work on code and fix issues here, but I also publish Updates and Bux Fixes. This source code is available
+only do I work on code and fix issues here, but I also publish Updates and Bux Fixes. This source code is available
 toeveryone, and can be modified. Every code you would want to add will be approven by me, and could be added to 
 the project, so feel free to contribute !
 
