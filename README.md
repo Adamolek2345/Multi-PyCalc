@@ -19,9 +19,9 @@ These scripts are made using Python 3. To run them, you can use the official Pyt
 "https://www.python.org/downloads", or using the command below if you use bash:
 
 -First, update Superuser:
-<pre> sudo apt update </pre>
+<pre> sudo apt update</pre>
 -Now, install python if you don't have it:
-<pre> sudo apt install python3 </pre>
+<pre> sudo apt install python3</pre>
 You can also use any third-party IDE. As I mentioned in the description, this code can be ran directly
 using the Python 3 console, without using any libraries. You can use any Python that is 3.x.x.
 
