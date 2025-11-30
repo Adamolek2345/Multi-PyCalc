@@ -20,7 +20,9 @@ sudo apt update
 ```
 
 -Now, install python if you don't have it:
-<pre> sudo apt install python3</pre>
+```bash
+sudo apt install python3
+```
 As I mentioned in the description, this code can be run directly using the Python 3 console, without using any
 libraries. You can also use any third-party IDE, but it has to be Python 3 or newer (3.x.x)
 
