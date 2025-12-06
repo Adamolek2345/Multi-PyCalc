@@ -30,6 +30,7 @@ Screenshot of Python 3 console: ![Image](https://github.com/Adamolek2345/Python-
 
 # Current Calculators 📂
 - CalcLab Battery Calculator v1.0
+- CalcLab Download CAlculator v1.0
 New ones are coming !
 
 # Contributing 👍
